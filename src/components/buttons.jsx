@@ -5,7 +5,7 @@ import Email from '../assets/email.png'
 export default function ButtonsF() {
   return (
     <ButtonsDiv>
-      <a href="https://seusite.com" target="_blank" rel="noopener noreferrer">
+      <a href="https://uniqshop.co" target="_blank" rel="noopener noreferrer">
         <button>Site</button>
       </a>
       <a

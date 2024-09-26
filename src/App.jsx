@@ -1,4 +1,4 @@
-import fotoFundo from "./assets/fundo-real.png";
+import fotoFundo from "./assets/foto-fundo2.png";
 
 import styled from "styled-components";
 import ImageUniq from "./components/image";
@@ -15,8 +15,13 @@ function App() {
   );
 }
 const Container = styled.div`
-  background-image: url(${fotoFundo});
+background-image: url(${fotoFundo});
   width: 100%;
-  height: 667px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 `;
 export default App;
