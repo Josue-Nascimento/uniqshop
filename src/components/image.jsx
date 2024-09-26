@@ -13,10 +13,7 @@ export default function ImageUniq() {
   const DivUniq = styled.div`
      display: flex;
         justify-content: center;
-    
-        height: 200px;
     img {
       width: 70%;
-      margin-top: 40px;
     }
   `;

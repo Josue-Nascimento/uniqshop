@@ -1,4 +1,4 @@
-import fotoFundo from "./assets/foto-fundo2.png";
+import fotoFundo from "./assets/foto-halloween.png";
 
 import styled from "styled-components";
 import ImageUniq from "./components/image";
